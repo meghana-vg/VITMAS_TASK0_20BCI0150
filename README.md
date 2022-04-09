@@ -31,5 +31,5 @@ switches to another branch and checks it out into your working directory
 ### git merge [branch]
 merge the specified branch's history into the current one
 
-###git commit
+### git commit
 commits staged changes and allows you to write a commit message
